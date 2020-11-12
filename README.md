@@ -25,7 +25,10 @@ In looking at the tables, we can draw the following conclusions:
 - The Part 1 summary shows that there will likely be a huge wave of retirements over the next few years.  
 - Among current employees, employees in Senior Engineer and Senior staff positions will be the most likely to retire.
 - While there are several senior level positions that will be need to be filled, only 2 manager positions will need to be filled.  
-- There will be approximately 1,500 employees who could potentially assume mentorship type roles.  
+- Part 2 of the analysis shows that there will be approximately 1,500 employees who could potentially assume mentorship type roles.  
+
+## Conclusion
+In running an additional query, there will be 90,938 roles that will likely need to be filled within the next few years.  While there will likely be a large number of retirees, there appears to be enough people to provide mentorship to younger members of the organization.  There are approximately 65,000 current employees with birth dates between Jan 1 1961 and December 31 1966.    
 
 
  
