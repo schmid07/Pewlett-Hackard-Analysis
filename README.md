@@ -28,7 +28,7 @@ In looking at the tables, we can draw the following conclusions:
 - Part 2 of the analysis shows that there will be approximately 1,500 employees who could potentially assume mentorship type roles.  
 
 ## Conclusion
-In running an additional query, there will be 90,938 roles that will likely need to be filled within the next few years.  While there will likely be a large number of retirees, there appears to be enough people to provide mentorship to younger members of the organization.  There are approximately 65,000 current employees with birth dates between Jan 1 1961 and December 31 1966.  It would be helpful to run an additional query on the number of potential mentees broken out by department.    
+In running an additional query, there will be 90,938 roles that will likely need to be filled within the next few years.  While there will likely be a large number of retirees, there appears to be enough people to provide mentorship to younger members of the organization.  There are approximately 65,000 current employees with birth dates between Jan 1 1961 and December 31 1966.  It would be helpful to run an additional query on the number of potential mentees broken out by department and an additional query broken out by title and department.   
 
 
  
