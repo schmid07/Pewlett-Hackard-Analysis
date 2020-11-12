@@ -20,4 +20,12 @@ In the second part of the analysis, we identified current employees who were bor
 ![png](Data/mentorship_eligibility.png)
 
 ## Results
+
+In looking at the tables, we can draw the following conclusions:
+- The Part 1 summary shows that there will likely be a huge wave of retirements over the next few years.  
+- Among current employees, employees in Senior Engineer and Senior staff positions will be the most likely to retire.
+- While there are several senior level positions that will be need to be filled, only 2 manager positions will need to be filled.  
+- There will be approximately 1,500 employees who could potentially assume mentorship type roles.  
+
+
  
