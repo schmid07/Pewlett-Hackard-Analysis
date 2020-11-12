@@ -15,8 +15,9 @@ The first part of the analysis is to create a retirement table that holds all of
 ![png](Data/retiring_titles.png)
 
 ## Part 2 Summary
+In the second part of the analysis, we identified current employees who were born between January 1, 1965 and December 31, 1965.  The result is a table of employees who would be eligible to be a mentor at the company.   
 
 ![png](Data/mentorship_eligibility.png)
 
-## Recommendations
-To address disparities in fares between rides, one recommendation is to charge different rates between Urban, Suburban, and Rural areas.  Another recommendation is to add an upfront fee that is contigent on the type of area.  A final recommendation is to tie rates to miles traveled so that the first mile is the most expensive, and gradually declines as vehicle miles increase.    
+## Results
+ 
